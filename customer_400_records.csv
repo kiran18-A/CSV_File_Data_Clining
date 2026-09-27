@@ -1,0 +1,401 @@
+Customer_ID,Customer_Name,Age,Gender,City,State,Customer_Segment,Product_Category,Quantity,Unit_Price,Purchase_Amount,Payment_Method,Purchase_Date
+CUST0001,Sahil Deshmukh,19,Male,Nagpur,Maharashtra,New,Clothing,4,2486,9944,Cash,2025-02-22
+CUST0002,Aditi Patil,23,Female,Nashik,Maharashtra,Regular,Clothing,1,9395,9395,Cash,2025-04-12
+CUST0003,Riya Kadam,18,Male,Mumbai,Maharashtra,Regular,Sports,7,5774,40418,Debit Card,2025-05-23
+CUST0004,Ananya Jadhav,42,Male,Pune,Maharashtra,New,Grocery,6,10091,60546,Cash,2025-05-16
+CUST0005,Rahul Deshmukh,42,Female,Pune,Maharashtra,New,Books,5,13788,68940,Credit Card,2025-11-18
+CUST0006,Tanvi Jadhav,20,Male,Nashik,Maharashtra,Premium,Grocery,2,14213,28426,Debit Card,2025-04-30
+CUST0007,Neha Agrawal,28,Male,Kolhapur,Maharashtra,New,Grocery,4,11180,44720,Credit Card,2025-05-17
+CUST0008,Rahul More,28,Male,Thane,Maharashtra,New,Furniture,5,10685,53425,Debit Card,2025-12-19
+CUST0009,Akash Sharma,32,Male,Aurangabad,Maharashtra,New,Grocery,7,4586,32102,Debit Card,2025-02-03
+CUST0010,Chetan Yadav,43,Female,Thane,Maharashtra,New,Clothing,5,2487,12435,Net Banking,2025-05-07
+CUST0011,Meena Gaikwad,43,Male,Kolhapur,Maharashtra,Regular,Clothing,3,8548,25644,UPI,2025-09-10
+CUST0012,Arjun Pawar,61,Female,Solapur,Maharashtra,New,Books,2,6504,13008,Debit Card,2025-07-15
+CUST0013,Rahul Patil,61,Female,Pune,Maharashtra,Regular,Sports,5,12792,63960,Debit Card,2025-11-25
+CUST0014,Meena Pawar,47,Male,Aurangabad,Maharashtra,New,Sports,5,8401,42005,Debit Card,2025-04-02
+CUST0015,Akash Thakur,56,Male,Nashik,Maharashtra,New,Clothing,6,12692,76152,Debit Card,2025-03-24
+CUST0016,Nikhil Patil,25,Male,Kolhapur,Maharashtra,Regular,Grocery,4,1149,4596,Cash,2025-05-04
+CUST0017,Akash Jadhav,52,Female,Mumbai,Maharashtra,New,Clothing,8,9207,73656,Net Banking,2025-03-26
+CUST0018,Meena Joshi,52,Female,Nashik,Maharashtra,Premium,Sports,5,6737,33685,Net Banking,2025-12-10
+CUST0019,Neha Deshmukh,33,Male,Nashik,Maharashtra,New,Electronics,6,544,3264,Credit Card,2025-10-29
+CUST0020,Aarav Jadhav,63,Male,Aurangabad,Maharashtra,New,Clothing,2,714,1428,Credit Card,2025-06-19
+CUST0021,Divya Yadav,31,Female,Nanded,Maharashtra,Regular,Clothing,8,4181,33448,UPI,2025-08-31
+CUST0022,Ananya Verma,40,Male,Solapur,Maharashtra,Regular,Furniture,8,14353,114824,Cash,2025-01-28
+CUST0023,Varun Chavan,24,Male,Nashik,Maharashtra,Premium,Clothing,4,8986,35944,Credit Card,2025-08-18
+CUST0024,Divya Singh,33,Male,Pune,Maharashtra,Regular,Furniture,2,1028,2056,Credit Card,2025-11-30
+CUST0025,Bhavna Verma,49,Male,Thane,Maharashtra,Premium,Clothing,7,14985,104895,UPI,2025-01-31
+CUST0026,Kiran Kadam,47,Female,Nagpur,Maharashtra,Regular,Furniture,8,2736,21888,UPI,2025-04-08
+CUST0027,Riya Bhosale,21,Male,Kolhapur,Maharashtra,Regular,Electronics,1,9771,9771,Net Banking,2025-09-02
+CUST0028,Amit Pawar,22,Male,Satara,Maharashtra,New,Electronics,4,6815,27260,Net Banking,2025-03-03
+CUST0029,Aditi Lokhande,23,Female,Solapur,Maharashtra,Regular,Sports,6,4472,26832,Debit Card,2025-04-15
+CUST0030,Kiran Kulkarni,60,Male,Nagpur,Maharashtra,Premium,Furniture,6,12518,75108,Net Banking,2025-02-07
+CUST0031,Riya Deshmukh,22,Male,Nanded,Maharashtra,Regular,Clothing,5,2370,11850,Debit Card,2025-06-28
+CUST0032,Isha Pawar,46,Male,Nanded,Maharashtra,New,Sports,5,10221,51105,Net Banking,2025-12-01
+CUST0033,Isha Deshmukh,26,Male,Nagpur,Maharashtra,Premium,Electronics,2,12363,24726,Debit Card,2025-10-11
+CUST0034,Rohan Joshi,63,Female,Kolhapur,Maharashtra,Regular,Clothing,5,8480,42400,UPI,2025-09-08
+CUST0035,Sahil Verma,35,Female,Aurangabad,Maharashtra,Regular,Electronics,6,12834,77004,Cash,2025-03-08
+CUST0036,Rahul Verma,53,Male,Aurangabad,Maharashtra,New,Electronics,2,14668,29336,UPI,2025-12-20
+CUST0037,Akash Agrawal,55,Female,Nanded,Maharashtra,Premium,Clothing,7,2288,16016,UPI,2025-01-22
+CUST0038,Suresh Agrawal,31,Female,Nashik,Maharashtra,New,Sports,2,5994,11988,Credit Card,2025-10-14
+CUST0039,Komal More,28,Female,Mumbai,Maharashtra,New,Furniture,1,3138,3138,Credit Card,2025-06-20
+CUST0040,Divya Pawar,62,Male,Pune,Maharashtra,Regular,Furniture,1,14267,14267,Cash,2025-08-29
+CUST0041,Kavita Shinde,32,Female,Nashik,Maharashtra,Regular,Electronics,4,6728,26912,Debit Card,2025-06-18
+CUST0042,Kavita Thakur,43,Male,Nanded,Maharashtra,New,Grocery,1,2089,2089,Debit Card,2025-05-14
+CUST0043,Aditi Deshmukh,56,Male,Solapur,Maharashtra,Premium,Grocery,6,7349,44094,Net Banking,2025-11-07
+CUST0044,Chetan Kadam,20,Male,Solapur,Maharashtra,New,Electronics,4,6167,24668,Debit Card,2025-08-09
+CUST0045,Rohan Chavan,60,Female,Pune,Maharashtra,Premium,Sports,5,8508,42540,Cash,2025-06-08
+CUST0046,Tanvi Shinde,53,Male,Mumbai,Maharashtra,New,Clothing,7,11094,77658,Net Banking,2025-07-14
+CUST0047,Isha Gupta,53,Female,Aurangabad,Maharashtra,Premium,Grocery,5,3643,18215,Cash,2025-08-09
+CUST0048,Neha Joshi,50,Female,Thane,Maharashtra,New,Sports,3,10994,32982,Net Banking,2025-02-13
+CUST0049,Karan Jadhav,33,Male,Nagpur,Maharashtra,Regular,Clothing,4,2614,10456,Cash,2025-01-13
+CUST0050,Rohan Jadhav,47,Female,Solapur,Maharashtra,Premium,Sports,4,11969,47876,Cash,2025-12-23
+CUST0051,Deepak Kulkarni,59,Female,Aurangabad,Maharashtra,Regular,Electronics,7,3785,26495,Net Banking,2025-04-01
+CUST0052,Deepak Deshmukh,47,Female,Mumbai,Maharashtra,New,Furniture,6,12574,75444,Cash,2025-08-15
+CUST0053,Suresh Pawar,65,Female,Thane,Maharashtra,New,Furniture,5,12517,62585,Cash,2025-05-07
+CUST0054,Sahil More,35,Female,Thane,Maharashtra,Premium,Electronics,5,4041,20205,Net Banking,2025-05-20
+CUST0055,Amit Kulkarni,27,Male,Nashik,Maharashtra,Premium,Furniture,3,11773,35319,Cash,2025-04-20
+CUST0056,Karan Bhosale,47,Female,Solapur,Maharashtra,New,Electronics,4,13846,55384,UPI,2025-08-04
+CUST0057,Simran Gaikwad,42,Female,Thane,Maharashtra,New,Electronics,6,5092,30552,Net Banking,2025-07-19
+CUST0058,Priya Lokhande,32,Male,Thane,Maharashtra,Premium,Clothing,5,7340,36700,Debit Card,2025-09-06
+CUST0059,Sneha Gupta,64,Male,Mumbai,Maharashtra,Premium,Furniture,3,10395,31185,Net Banking,2025-10-01
+CUST0060,Riya Patil,23,Female,Solapur,Maharashtra,Premium,Clothing,8,3177,25416,Debit Card,2025-01-26
+CUST0061,Chetan Singh,38,Female,Kolhapur,Maharashtra,Regular,Furniture,5,12520,62600,Cash,2025-08-04
+CUST0062,Aarav Bhosale,21,Male,Kolhapur,Maharashtra,Regular,Clothing,2,12999,25998,Credit Card,2025-11-30
+CUST0063,Chetan Patil,57,Male,Mumbai,Maharashtra,New,Clothing,3,7958,23874,Credit Card,2025-12-09
+CUST0064,Neha Kadam,41,Female,Mumbai,Maharashtra,Regular,Books,2,12943,25886,Net Banking,2025-03-25
+CUST0065,Aarav Shinde,54,Male,Solapur,Maharashtra,Regular,Furniture,4,1445,5780,Debit Card,2025-10-31
+CUST0066,Simran Lokhande,25,Female,Satara,Maharashtra,Regular,Electronics,6,8928,53568,Net Banking,2025-08-08
+CUST0067,Sahil Chavan,18,Female,Solapur,Maharashtra,New,Furniture,2,7302,14604,Credit Card,2025-07-05
+CUST0068,Meena Pawar,64,Female,Nanded,Maharashtra,Premium,Sports,5,10291,51455,Cash,2025-10-03
+CUST0069,Akash Gaikwad,35,Male,Kolhapur,Maharashtra,Premium,Clothing,2,4769,9538,Net Banking,2025-08-19
+CUST0070,Rohan Gupta,39,Male,Aurangabad,Maharashtra,Premium,Furniture,6,3179,19074,Debit Card,2025-09-07
+CUST0071,Karan Kadam,56,Male,Nagpur,Maharashtra,Regular,Books,1,8664,8664,Cash,2025-04-08
+CUST0072,Nikhil Bhosale,33,Male,Thane,Maharashtra,Premium,Sports,8,7542,60336,Credit Card,2025-01-09
+CUST0073,Kiran More,37,Female,Satara,Maharashtra,Premium,Grocery,8,9268,74144,Net Banking,2025-09-29
+CUST0074,Karan Agrawal,62,Male,Thane,Maharashtra,New,Grocery,5,4318,21590,Credit Card,2025-04-29
+CUST0075,Karan Deshmukh,65,Female,Nanded,Maharashtra,Premium,Sports,3,3338,10014,Net Banking,2025-04-21
+CUST0076,Vikas Thakur,56,Female,Nagpur,Maharashtra,Regular,Electronics,4,5053,20212,Debit Card,2025-04-27
+CUST0077,Aarav Bhosale,26,Male,Nagpur,Maharashtra,New,Electronics,1,9266,9266,Cash,2025-05-30
+CUST0078,Ananya Patil,54,Male,Nagpur,Maharashtra,Regular,Furniture,8,7416,59328,Debit Card,2025-06-24
+CUST0079,Simran Yadav,25,Male,Pune,Maharashtra,Regular,Furniture,8,1413,11304,Credit Card,2025-10-23
+CUST0080,Priya Gaikwad,37,Male,Pune,Maharashtra,New,Clothing,2,9343,18686,Cash,2025-08-02
+CUST0081,Neha Singh,37,Male,Satara,Maharashtra,New,Furniture,5,9516,47580,UPI,2025-11-14
+CUST0082,Vikas Joshi,58,Male,Nashik,Maharashtra,New,Grocery,2,2773,5546,UPI,2025-05-03
+CUST0083,Bhavna Patil,44,Male,Thane,Maharashtra,Premium,Sports,8,4971,39768,Debit Card,2025-01-17
+CUST0084,Tanvi Singh,22,Male,Nashik,Maharashtra,New,Grocery,4,7165,28660,Credit Card,2025-02-28
+CUST0085,Komal Kadam,27,Female,Pune,Maharashtra,Premium,Electronics,3,13186,39558,UPI,2025-06-07
+CUST0086,Neha Shinde,62,Male,Solapur,Maharashtra,Premium,Grocery,8,7372,58976,Debit Card,2025-02-11
+CUST0087,Rohan Kadam,19,Female,Pune,Maharashtra,New,Clothing,1,12729,12729,UPI,2025-12-11
+CUST0088,Vikas Pawar,48,Female,Nanded,Maharashtra,New,Sports,8,4757,38056,Cash,2025-04-03
+CUST0089,Amit Yadav,40,Male,Solapur,Maharashtra,Premium,Grocery,6,11179,67074,Cash,2025-02-23
+CUST0090,Tanvi Yadav,36,Female,Solapur,Maharashtra,Premium,Books,1,7651,7651,Debit Card,2025-02-15
+CUST0091,Ananya Gupta,50,Male,Aurangabad,Maharashtra,New,Sports,8,6970,55760,Debit Card,2025-01-28
+CUST0092,Rohan Yadav,58,Male,Thane,Maharashtra,Premium,Electronics,4,4575,18300,Cash,2025-10-09
+CUST0093,Suresh Yadav,25,Female,Aurangabad,Maharashtra,New,Sports,4,11829,47316,UPI,2025-03-23
+CUST0094,Rahul Verma,23,Male,Nashik,Maharashtra,Premium,Electronics,8,2124,16992,Debit Card,2025-11-28
+CUST0095,Pooja Kadam,44,Male,Thane,Maharashtra,Premium,Furniture,4,7683,30732,Credit Card,2025-10-10
+CUST0096,Komal Lokhande,50,Female,Mumbai,Maharashtra,New,Electronics,5,12859,64295,Debit Card,2025-08-01
+CUST0097,Akash Patil,36,Female,Nagpur,Maharashtra,New,Books,8,14376,115008,Cash,2025-03-18
+CUST0098,Kavita Chavan,53,Male,Nanded,Maharashtra,New,Furniture,8,5472,43776,Cash,2025-04-07
+CUST0099,Deepak Verma,20,Female,Kolhapur,Maharashtra,New,Sports,8,11754,94032,Credit Card,2025-07-15
+CUST0100,Nikhil Sharma,26,Female,Nanded,Maharashtra,Regular,Books,6,14449,86694,Net Banking,2025-02-21
+CUST0101,Komal Singh,18,Female,Mumbai,Maharashtra,Premium,Furniture,3,1425,4275,Net Banking,2025-08-29
+CUST0102,Tanvi Gupta,59,Female,Pune,Maharashtra,New,Grocery,7,5388,37716,UPI,2025-11-17
+CUST0103,Rohan Jadhav,33,Male,Nagpur,Maharashtra,Premium,Clothing,2,7310,14620,Credit Card,2025-02-20
+CUST0104,Tanvi Shinde,19,Female,Aurangabad,Maharashtra,Premium,Grocery,1,5006,5006,Credit Card,2025-07-03
+CUST0105,Deepak Thakur,44,Male,Satara,Maharashtra,New,Sports,3,2985,8955,Cash,2025-03-31
+CUST0106,Rohan More,49,Female,Satara,Maharashtra,Premium,Clothing,4,7755,31020,Debit Card,2025-11-23
+CUST0107,Sneha Patil,47,Female,Nagpur,Maharashtra,New,Sports,3,1410,4230,Debit Card,2025-08-15
+CUST0108,Sahil Verma,62,Female,Nagpur,Maharashtra,Regular,Furniture,5,3463,17315,Credit Card,2025-07-16
+CUST0109,Kiran Gaikwad,40,Female,Satara,Maharashtra,Premium,Grocery,5,559,2795,UPI,2025-12-04
+CUST0110,Riya Sharma,56,Male,Thane,Maharashtra,New,Grocery,4,10146,40584,Credit Card,2025-06-30
+CUST0111,Rohan Kadam,61,Male,Mumbai,Maharashtra,Premium,Sports,2,10480,20960,Cash,2025-11-27
+CUST0112,Aditi Gaikwad,41,Male,Mumbai,Maharashtra,Regular,Electronics,5,5552,27760,Credit Card,2025-08-01
+CUST0113,Priya Bhosale,41,Female,Nanded,Maharashtra,Premium,Books,5,13806,69030,Debit Card,2025-03-26
+CUST0114,Varun Chavan,25,Female,Thane,Maharashtra,New,Electronics,3,12556,37668,Debit Card,2025-04-26
+CUST0115,Amit Gupta,18,Female,Nagpur,Maharashtra,New,Books,2,7651,15302,Cash,2025-07-08
+CUST0116,Akash Agrawal,24,Female,Nashik,Maharashtra,New,Furniture,1,10350,10350,Credit Card,2025-10-15
+CUST0117,Sahil Jadhav,58,Male,Thane,Maharashtra,Regular,Sports,5,10837,54185,UPI,2025-07-29
+CUST0118,Aditi Shinde,49,Male,Pune,Maharashtra,Premium,Electronics,4,14736,58944,Cash,2025-10-03
+CUST0119,Kavita Bhosale,44,Male,Satara,Maharashtra,Premium,Sports,3,14706,44118,Net Banking,2025-08-01
+CUST0120,Meena Kadam,20,Female,Kolhapur,Maharashtra,Regular,Clothing,8,7485,59880,Debit Card,2025-05-01
+CUST0121,Rahul Agrawal,21,Male,Solapur,Maharashtra,New,Grocery,4,2201,8804,Credit Card,2025-08-21
+CUST0122,Sahil Lokhande,19,Male,Aurangabad,Maharashtra,Regular,Grocery,4,2263,9052,Net Banking,2025-10-17
+CUST0123,Chetan Gaikwad,31,Male,Nashik,Maharashtra,Premium,Grocery,3,13121,39363,Credit Card,2025-11-02
+CUST0124,Arjun Bhosale,34,Female,Mumbai,Maharashtra,Regular,Electronics,1,2359,2359,Net Banking,2025-01-08
+CUST0125,Karan Patil,29,Male,Nagpur,Maharashtra,New,Electronics,3,12352,37056,UPI,2025-08-04
+CUST0126,Nikhil Singh,41,Male,Nanded,Maharashtra,New,Books,2,7605,15210,UPI,2025-09-15
+CUST0127,Varun Thakur,37,Female,Thane,Maharashtra,Premium,Sports,1,1196,1196,UPI,2025-09-03
+CUST0128,Nikhil Singh,22,Female,Pune,Maharashtra,New,Grocery,3,1276,3828,Net Banking,2025-03-06
+CUST0129,Rahul Chavan,42,Female,Satara,Maharashtra,Regular,Books,5,7633,38165,UPI,2025-09-16
+CUST0130,Simran Bhosale,64,Female,Nashik,Maharashtra,Premium,Furniture,8,14750,118000,Cash,2025-04-27
+CUST0131,Kiran Verma,64,Female,Pune,Maharashtra,Premium,Grocery,7,5320,37240,Credit Card,2025-12-07
+CUST0132,Sneha Yadav,22,Female,Pune,Maharashtra,Regular,Electronics,2,7275,14550,Net Banking,2025-02-19
+CUST0133,Aditi Gaikwad,53,Female,Nanded,Maharashtra,New,Grocery,2,6930,13860,UPI,2025-07-01
+CUST0134,Isha Lokhande,37,Female,Kolhapur,Maharashtra,Regular,Electronics,4,2735,10940,UPI,2025-12-03
+CUST0135,Kavita Bhosale,41,Male,Pune,Maharashtra,New,Grocery,4,13425,53700,Debit Card,2025-08-08
+CUST0136,Aarav Pawar,35,Male,Nagpur,Maharashtra,New,Grocery,6,300,1800,Cash,2025-04-03
+CUST0137,Amit Kulkarni,65,Female,Aurangabad,Maharashtra,Premium,Electronics,4,6363,25452,Credit Card,2025-08-03
+CUST0138,Kavita Shinde,64,Male,Kolhapur,Maharashtra,Regular,Books,2,14672,29344,Net Banking,2025-01-27
+CUST0139,Aditi Jadhav,35,Female,Thane,Maharashtra,Premium,Sports,7,8157,57099,Debit Card,2025-11-07
+CUST0140,Chetan Thakur,25,Female,Kolhapur,Maharashtra,New,Furniture,2,4840,9680,Debit Card,2025-12-14
+CUST0141,Aditi More,43,Male,Satara,Maharashtra,Regular,Electronics,1,3549,3549,Debit Card,2025-06-04
+CUST0142,Isha Chavan,25,Female,Aurangabad,Maharashtra,New,Furniture,7,3078,21546,Credit Card,2025-03-08
+CUST0143,Pooja Bhosale,60,Female,Kolhapur,Maharashtra,Regular,Electronics,7,14319,100233,Cash,2025-01-22
+CUST0144,Komal Jadhav,38,Female,Satara,Maharashtra,Premium,Furniture,7,11824,82768,UPI,2025-11-24
+CUST0145,Kiran Patil,38,Female,Mumbai,Maharashtra,Regular,Books,8,13831,110648,Cash,2025-12-20
+CUST0146,Simran Deshmukh,33,Female,Solapur,Maharashtra,Premium,Books,7,8784,61488,Debit Card,2025-02-10
+CUST0147,Deepak Chavan,28,Male,Pune,Maharashtra,Premium,Books,2,8893,17786,Debit Card,2025-09-19
+CUST0148,Varun Kulkarni,33,Male,Pune,Maharashtra,New,Clothing,5,3432,17160,UPI,2025-03-30
+CUST0149,Bhavna Yadav,47,Female,Satara,Maharashtra,New,Books,8,11359,90872,Debit Card,2025-10-17
+CUST0150,Arjun Singh,22,Male,Thane,Maharashtra,Premium,Furniture,5,13247,66235,Net Banking,2025-05-21
+CUST0151,Amit Shinde,47,Male,Thane,Maharashtra,New,Electronics,1,6241,6241,UPI,2025-05-27
+CUST0152,Rohan Lokhande,50,Male,Solapur,Maharashtra,Premium,Furniture,1,7568,7568,Net Banking,2025-10-20
+CUST0153,Nikhil Thakur,27,Male,Aurangabad,Maharashtra,New,Furniture,2,13486,26972,Credit Card,2025-06-25
+CUST0154,Aditi More,63,Female,Thane,Maharashtra,Premium,Furniture,3,6162,18486,Cash,2025-07-10
+CUST0155,Vikas Chavan,61,Male,Satara,Maharashtra,New,Electronics,6,1279,7674,Cash,2025-06-18
+CUST0156,Isha Kadam,64,Male,Satara,Maharashtra,Premium,Clothing,6,1535,9210,Debit Card,2025-10-26
+CUST0157,Sahil Gupta,26,Female,Satara,Maharashtra,New,Sports,2,5272,10544,Debit Card,2025-10-14
+CUST0158,Akash Kulkarni,60,Male,Nanded,Maharashtra,Premium,Electronics,7,8531,59717,Debit Card,2025-07-05
+CUST0159,Bhavna Joshi,39,Male,Thane,Maharashtra,Premium,Clothing,4,2453,9812,UPI,2025-03-21
+CUST0160,Pooja Bhosale,65,Male,Nanded,Maharashtra,New,Electronics,6,14558,87348,Cash,2025-11-13
+CUST0161,Arjun Pawar,29,Female,Satara,Maharashtra,New,Clothing,8,915,7320,Credit Card,2025-07-30
+CUST0162,Neha Lokhande,36,Male,Thane,Maharashtra,Premium,Clothing,4,5270,21080,Net Banking,2025-08-29
+CUST0163,Neha Singh,36,Male,Solapur,Maharashtra,Premium,Books,7,2855,19985,UPI,2025-04-13
+CUST0164,Sahil Yadav,41,Male,Nanded,Maharashtra,Premium,Electronics,2,4870,9740,Cash,2025-02-12
+CUST0165,Suresh Thakur,27,Female,Solapur,Maharashtra,Regular,Electronics,4,13580,54320,Cash,2025-08-19
+CUST0166,Aditi Gupta,50,Male,Kolhapur,Maharashtra,Regular,Clothing,7,1537,10759,Debit Card,2025-07-11
+CUST0167,Komal Deshmukh,63,Female,Kolhapur,Maharashtra,New,Clothing,3,827,2481,Credit Card,2025-05-27
+CUST0168,Vikas Yadav,46,Male,Satara,Maharashtra,Regular,Electronics,2,511,1022,Net Banking,2025-05-12
+CUST0169,Varun Lokhande,51,Male,Solapur,Maharashtra,Regular,Electronics,5,4093,20465,Credit Card,2025-06-04
+CUST0170,Meena Lokhande,47,Male,Pune,Maharashtra,New,Electronics,8,9976,79808,Net Banking,2025-10-02
+CUST0171,Riya More,63,Female,Mumbai,Maharashtra,Regular,Grocery,7,225,1575,Net Banking,2025-11-11
+CUST0172,Meena Pawar,60,Male,Pune,Maharashtra,Premium,Books,6,1308,7848,Cash,2025-09-27
+CUST0173,Aditi Gupta,41,Female,Nagpur,Maharashtra,Regular,Sports,1,6050,6050,UPI,2025-02-04
+CUST0174,Vikas Gaikwad,65,Female,Kolhapur,Maharashtra,New,Clothing,1,5972,5972,Credit Card,2025-10-07
+CUST0175,Akash Singh,62,Male,Thane,Maharashtra,New,Sports,3,13495,40485,Cash,2025-03-11
+CUST0176,Aditi Shinde,30,Female,Aurangabad,Maharashtra,New,Clothing,1,5370,5370,Cash,2025-06-08
+CUST0177,Divya Sharma,59,Female,Nashik,Maharashtra,Premium,Grocery,6,14325,85950,UPI,2025-01-25
+CUST0178,Priya Agrawal,45,Female,Solapur,Maharashtra,Regular,Sports,8,14857,118856,Cash,2025-07-17
+CUST0179,Tanvi Yadav,41,Male,Nanded,Maharashtra,Premium,Grocery,2,12112,24224,Net Banking,2025-08-06
+CUST0180,Akash Pawar,52,Female,Nagpur,Maharashtra,Premium,Grocery,2,1511,3022,Cash,2025-06-17
+CUST0181,Rohan Verma,28,Female,Thane,Maharashtra,Premium,Grocery,8,893,7144,UPI,2025-06-30
+CUST0182,Amit Gupta,41,Female,Nanded,Maharashtra,Regular,Sports,3,710,2130,Credit Card,2025-03-15
+CUST0183,Amit More,59,Male,Kolhapur,Maharashtra,New,Grocery,7,9493,66451,Cash,2025-01-17
+CUST0184,Kavita Agrawal,46,Female,Pune,Maharashtra,Premium,Books,3,8874,26622,Debit Card,2025-07-07
+CUST0185,Deepak Deshmukh,19,Female,Mumbai,Maharashtra,Premium,Furniture,7,9402,65814,Cash,2025-03-02
+CUST0186,Chetan Lokhande,36,Female,Thane,Maharashtra,Regular,Clothing,2,2423,4846,Cash,2025-02-07
+CUST0187,Amit Chavan,60,Female,Kolhapur,Maharashtra,Premium,Sports,2,9211,18422,Credit Card,2025-10-05
+CUST0188,Tanvi Pawar,41,Male,Nanded,Maharashtra,Premium,Clothing,2,3492,6984,UPI,2025-03-13
+CUST0189,Kavita Bhosale,54,Male,Kolhapur,Maharashtra,Premium,Furniture,3,10226,30678,Cash,2025-02-14
+CUST0190,Tanvi Yadav,51,Male,Solapur,Maharashtra,Premium,Furniture,2,2253,4506,Cash,2025-06-12
+CUST0191,Sneha Thakur,40,Female,Mumbai,Maharashtra,New,Books,3,12779,38337,UPI,2025-03-08
+CUST0192,Akash Deshmukh,51,Male,Mumbai,Maharashtra,Premium,Grocery,3,2853,8559,Net Banking,2025-06-15
+CUST0193,Suresh Shinde,23,Female,Nagpur,Maharashtra,New,Clothing,5,2250,11250,Net Banking,2025-11-17
+CUST0194,Amit Thakur,59,Female,Mumbai,Maharashtra,New,Books,3,3004,9012,UPI,2025-12-04
+CUST0195,Akash Patil,23,Female,Aurangabad,Maharashtra,New,Sports,5,10868,54340,UPI,2025-04-18
+CUST0196,Nikhil Bhosale,36,Female,Nagpur,Maharashtra,Premium,Furniture,4,13384,53536,Cash,2025-12-17
+CUST0197,Amit Sharma,28,Female,Thane,Maharashtra,New,Furniture,8,7809,62472,Credit Card,2025-04-15
+CUST0198,Karan Chavan,64,Male,Kolhapur,Maharashtra,Premium,Furniture,3,12662,37986,Credit Card,2025-07-09
+CUST0199,Neha Deshmukh,35,Female,Thane,Maharashtra,Premium,Clothing,3,1786,5358,Net Banking,2025-01-26
+CUST0200,Meena More,28,Female,Kolhapur,Maharashtra,New,Books,6,3310,19860,Cash,2025-03-23
+CUST0201,Nikhil Shinde,49,Male,Aurangabad,Maharashtra,Regular,Electronics,7,8481,59367,Net Banking,2025-08-23
+CUST0202,Kavita Sharma,21,Male,Nagpur,Maharashtra,Regular,Furniture,8,4881,39048,Cash,2025-10-02
+CUST0203,Arjun Kadam,64,Male,Kolhapur,Maharashtra,New,Furniture,6,941,5646,Net Banking,2025-07-25
+CUST0204,Chetan Agrawal,53,Female,Nagpur,Maharashtra,New,Electronics,7,8461,59227,Net Banking,2025-08-19
+CUST0205,Ananya Kulkarni,24,Male,Solapur,Maharashtra,Regular,Grocery,6,9339,56034,Net Banking,2025-07-07
+CUST0206,Pooja Gupta,50,Female,Aurangabad,Maharashtra,New,Electronics,1,2445,2445,Cash,2025-06-20
+CUST0207,Arjun Lokhande,50,Female,Mumbai,Maharashtra,New,Grocery,6,2862,17172,Debit Card,2025-07-21
+CUST0208,Pooja Thakur,52,Female,Thane,Maharashtra,Premium,Sports,5,7980,39900,UPI,2025-01-09
+CUST0209,Meena Gaikwad,37,Male,Aurangabad,Maharashtra,New,Books,8,4550,36400,UPI,2025-12-02
+CUST0210,Riya Yadav,28,Male,Nanded,Maharashtra,Regular,Sports,7,2621,18347,Net Banking,2025-12-15
+CUST0211,Tanvi Deshmukh,30,Female,Aurangabad,Maharashtra,New,Furniture,6,7061,42366,Credit Card,2025-03-19
+CUST0212,Meena Thakur,57,Male,Thane,Maharashtra,New,Sports,1,11763,11763,Debit Card,2025-03-12
+CUST0213,Sneha Yadav,51,Female,Solapur,Maharashtra,New,Grocery,3,7731,23193,Debit Card,2025-09-30
+CUST0214,Sneha Kadam,57,Female,Thane,Maharashtra,Regular,Clothing,4,4771,19084,Debit Card,2025-10-13
+CUST0215,Vikas Shinde,63,Female,Nashik,Maharashtra,New,Sports,8,5394,43152,Debit Card,2025-09-03
+CUST0216,Isha Deshmukh,54,Male,Nanded,Maharashtra,Premium,Furniture,7,13608,95256,UPI,2025-06-26
+CUST0217,Isha Jadhav,40,Male,Thane,Maharashtra,Regular,Sports,5,12444,62220,Net Banking,2025-09-03
+CUST0218,Divya Bhosale,62,Male,Nagpur,Maharashtra,Regular,Clothing,2,10287,20574,UPI,2025-10-28
+CUST0219,Sneha Thakur,32,Female,Nashik,Maharashtra,Regular,Electronics,2,6971,13942,Credit Card,2025-06-19
+CUST0220,Aarav Bhosale,28,Male,Solapur,Maharashtra,Premium,Sports,8,8022,64176,Debit Card,2025-11-30
+CUST0221,Isha Sharma,23,Male,Satara,Maharashtra,Regular,Clothing,1,3068,3068,Cash,2025-08-02
+CUST0222,Priya Yadav,29,Male,Nagpur,Maharashtra,Premium,Electronics,1,5088,5088,Debit Card,2025-10-18
+CUST0223,Neha Bhosale,51,Male,Thane,Maharashtra,Premium,Clothing,8,4670,37360,Credit Card,2025-04-09
+CUST0224,Varun Singh,59,Female,Nagpur,Maharashtra,New,Sports,3,430,1290,Credit Card,2025-06-22
+CUST0225,Bhavna Lokhande,58,Male,Solapur,Maharashtra,Regular,Furniture,6,1621,9726,Credit Card,2025-07-25
+CUST0226,Nikhil Chavan,33,Female,Aurangabad,Maharashtra,Premium,Grocery,7,4058,28406,Debit Card,2025-08-17
+CUST0227,Riya Gaikwad,18,Male,Nagpur,Maharashtra,New,Sports,6,11550,69300,UPI,2025-05-01
+CUST0228,Neha Shinde,28,Female,Solapur,Maharashtra,Premium,Sports,5,11509,57545,Net Banking,2025-03-02
+CUST0229,Deepak More,26,Female,Thane,Maharashtra,Premium,Clothing,8,12450,99600,Net Banking,2025-11-07
+CUST0230,Komal Yadav,52,Female,Nashik,Maharashtra,Regular,Clothing,2,8809,17618,Net Banking,2025-08-17
+CUST0231,Ananya Sharma,53,Female,Nanded,Maharashtra,Regular,Clothing,3,2895,8685,Credit Card,2025-06-17
+CUST0232,Tanvi Gaikwad,49,Female,Pune,Maharashtra,Regular,Books,8,13449,107592,Net Banking,2025-01-29
+CUST0233,Meena Singh,54,Male,Aurangabad,Maharashtra,Premium,Books,8,11222,89776,Debit Card,2025-06-07
+CUST0234,Akash Patil,65,Female,Nashik,Maharashtra,New,Books,2,942,1884,UPI,2025-08-05
+CUST0235,Rahul Sharma,22,Male,Thane,Maharashtra,New,Electronics,5,6898,34490,Cash,2025-04-03
+CUST0236,Kavita Gupta,46,Male,Solapur,Maharashtra,New,Furniture,2,11385,22770,Debit Card,2025-12-05
+CUST0237,Ananya Pawar,52,Male,Solapur,Maharashtra,Regular,Books,3,12125,36375,Debit Card,2025-04-25
+CUST0238,Neha Bhosale,45,Female,Nanded,Maharashtra,Regular,Furniture,4,4255,17020,Debit Card,2025-08-24
+CUST0239,Chetan Deshmukh,20,Male,Solapur,Maharashtra,Regular,Books,1,4143,4143,Net Banking,2025-04-16
+CUST0240,Aditi Singh,56,Male,Aurangabad,Maharashtra,New,Clothing,1,6790,6790,Credit Card,2025-08-13
+CUST0241,Vikas Sharma,26,Female,Nanded,Maharashtra,New,Grocery,4,13565,54260,Net Banking,2025-10-22
+CUST0242,Vikas Chavan,33,Female,Nagpur,Maharashtra,Regular,Clothing,4,6975,27900,Net Banking,2025-06-03
+CUST0243,Riya Pawar,58,Female,Solapur,Maharashtra,New,Books,8,968,7744,Debit Card,2025-06-26
+CUST0244,Tanvi Verma,44,Female,Mumbai,Maharashtra,Regular,Grocery,7,3212,22484,Credit Card,2025-10-03
+CUST0245,Isha Kulkarni,47,Male,Aurangabad,Maharashtra,Premium,Books,7,7024,49168,Credit Card,2025-10-13
+CUST0246,Divya Joshi,39,Male,Pune,Maharashtra,Regular,Furniture,6,1714,10284,Debit Card,2025-10-02
+CUST0247,Kiran Lokhande,56,Male,Aurangabad,Maharashtra,Premium,Electronics,4,13383,53532,Credit Card,2025-10-28
+CUST0248,Simran Chavan,37,Female,Aurangabad,Maharashtra,Regular,Clothing,4,12348,49392,Net Banking,2025-03-02
+CUST0249,Tanvi Joshi,43,Female,Nashik,Maharashtra,Premium,Books,6,12906,77436,Net Banking,2025-05-25
+CUST0250,Sahil Agrawal,37,Female,Nagpur,Maharashtra,Premium,Grocery,8,7835,62680,Credit Card,2025-02-20
+CUST0251,Kavita Chavan,44,Male,Aurangabad,Maharashtra,Premium,Books,4,12344,49376,Net Banking,2025-03-16
+CUST0252,Komal Gaikwad,55,Male,Solapur,Maharashtra,Premium,Grocery,3,3414,10242,Net Banking,2025-06-18
+CUST0253,Akash More,49,Female,Nanded,Maharashtra,Premium,Sports,6,4416,26496,Credit Card,2025-09-08
+CUST0254,Varun Agrawal,28,Male,Mumbai,Maharashtra,New,Sports,8,3215,25720,UPI,2025-10-05
+CUST0255,Akash Jadhav,60,Male,Aurangabad,Maharashtra,Regular,Electronics,7,2452,17164,Credit Card,2025-11-19
+CUST0256,Aarav Joshi,50,Female,Thane,Maharashtra,New,Grocery,1,10322,10322,Cash,2025-11-23
+CUST0257,Aarav Patil,52,Female,Nanded,Maharashtra,New,Furniture,1,474,474,Debit Card,2025-09-29
+CUST0258,Aarav Thakur,62,Male,Solapur,Maharashtra,Regular,Clothing,2,1778,3556,Credit Card,2025-09-26
+CUST0259,Rohan Thakur,34,Female,Kolhapur,Maharashtra,Premium,Grocery,7,1494,10458,Net Banking,2025-07-11
+CUST0260,Deepak More,37,Female,Pune,Maharashtra,Premium,Sports,1,1731,1731,Net Banking,2025-07-27
+CUST0261,Nikhil Sharma,58,Female,Aurangabad,Maharashtra,New,Sports,3,1554,4662,Debit Card,2025-09-13
+CUST0262,Riya Deshmukh,51,Female,Aurangabad,Maharashtra,Premium,Clothing,4,14966,59864,UPI,2025-12-21
+CUST0263,Komal Jadhav,61,Male,Nagpur,Maharashtra,Regular,Books,1,3138,3138,Net Banking,2025-06-11
+CUST0264,Arjun Gupta,22,Female,Nagpur,Maharashtra,Premium,Clothing,4,9484,37936,Credit Card,2025-07-19
+CUST0265,Priya Jadhav,50,Male,Kolhapur,Maharashtra,Premium,Electronics,2,7361,14722,Net Banking,2025-04-29
+CUST0266,Vikas Lokhande,56,Female,Solapur,Maharashtra,Premium,Grocery,1,10589,10589,Credit Card,2025-05-20
+CUST0267,Kavita Bhosale,42,Female,Solapur,Maharashtra,Regular,Clothing,7,1604,11228,UPI,2025-11-13
+CUST0268,Amit Kadam,27,Female,Solapur,Maharashtra,Premium,Sports,3,12318,36954,UPI,2025-07-19
+CUST0269,Amit Patil,37,Male,Thane,Maharashtra,Regular,Grocery,5,1874,9370,Cash,2025-03-09
+CUST0270,Neha Bhosale,53,Female,Nanded,Maharashtra,New,Furniture,2,630,1260,UPI,2025-02-15
+CUST0271,Rohan Lokhande,38,Male,Solapur,Maharashtra,New,Electronics,5,6979,34895,Net Banking,2025-07-18
+CUST0272,Suresh More,54,Female,Nanded,Maharashtra,Premium,Clothing,7,2977,20839,Debit Card,2025-03-13
+CUST0273,Nikhil Kulkarni,22,Female,Mumbai,Maharashtra,Regular,Furniture,5,7099,35495,Debit Card,2025-06-03
+CUST0274,Divya More,64,Male,Thane,Maharashtra,Premium,Books,4,7701,30804,UPI,2025-02-24
+CUST0275,Kiran Chavan,57,Male,Solapur,Maharashtra,Premium,Grocery,8,5684,45472,Debit Card,2025-08-09
+CUST0276,Rohan Joshi,48,Female,Kolhapur,Maharashtra,New,Clothing,7,5428,37996,Credit Card,2025-05-30
+CUST0277,Karan Gupta,35,Male,Solapur,Maharashtra,New,Grocery,2,9438,18876,Net Banking,2025-04-13
+CUST0278,Aarav Singh,63,Male,Nashik,Maharashtra,Premium,Furniture,5,13819,69095,Cash,2025-12-21
+CUST0279,Arjun Shinde,33,Female,Nagpur,Maharashtra,Regular,Sports,3,11918,35754,Cash,2025-08-05
+CUST0280,Rohan Yadav,55,Female,Solapur,Maharashtra,New,Books,7,9107,63749,Net Banking,2025-01-19
+CUST0281,Rohan Jadhav,24,Male,Nashik,Maharashtra,New,Sports,6,2925,17550,Cash,2025-11-28
+CUST0282,Vikas Chavan,45,Male,Pune,Maharashtra,Premium,Electronics,2,4439,8878,Debit Card,2025-04-24
+CUST0283,Kiran Singh,61,Female,Satara,Maharashtra,Regular,Sports,3,5851,17553,Debit Card,2025-01-13
+CUST0284,Meena Jadhav,25,Male,Mumbai,Maharashtra,New,Grocery,5,5820,29100,Cash,2025-08-22
+CUST0285,Kavita Yadav,24,Female,Thane,Maharashtra,Regular,Sports,8,5425,43400,UPI,2025-02-04
+CUST0286,Aarav Chavan,59,Male,Pune,Maharashtra,New,Sports,3,12332,36996,Credit Card,2025-05-05
+CUST0287,Karan Bhosale,45,Male,Thane,Maharashtra,New,Clothing,7,10517,73619,Cash,2025-04-05
+CUST0288,Kiran Patil,65,Female,Satara,Maharashtra,Regular,Clothing,8,9902,79216,Credit Card,2025-08-08
+CUST0289,Chetan Kadam,63,Male,Pune,Maharashtra,Premium,Books,2,13299,26598,Debit Card,2025-10-02
+CUST0290,Chetan Singh,25,Female,Nagpur,Maharashtra,New,Sports,8,8846,70768,Cash,2025-11-24
+CUST0291,Rohan Gupta,55,Male,Pune,Maharashtra,New,Grocery,6,14052,84312,Debit Card,2025-08-23
+CUST0292,Komal Lokhande,55,Male,Pune,Maharashtra,Premium,Sports,3,5331,15993,UPI,2025-03-02
+CUST0293,Bhavna Agrawal,62,Male,Mumbai,Maharashtra,New,Books,7,7052,49364,Cash,2025-11-02
+CUST0294,Meena Pawar,49,Female,Nanded,Maharashtra,Premium,Sports,3,9291,27873,Credit Card,2025-03-27
+CUST0295,Bhavna Chavan,46,Male,Satara,Maharashtra,Regular,Electronics,6,357,2142,Cash,2025-09-06
+CUST0296,Rahul Thakur,59,Female,Thane,Maharashtra,Premium,Furniture,8,7009,56072,Credit Card,2025-12-30
+CUST0297,Amit Gaikwad,19,Female,Nashik,Maharashtra,Regular,Grocery,1,4703,4703,Cash,2025-04-26
+CUST0298,Riya Yadav,53,Female,Nanded,Maharashtra,New,Electronics,2,4589,9178,UPI,2025-10-06
+CUST0299,Vikas Singh,52,Male,Nashik,Maharashtra,Premium,Furniture,2,12258,24516,UPI,2025-12-01
+CUST0300,Neha Kadam,40,Male,Pune,Maharashtra,New,Furniture,2,12907,25814,Net Banking,2025-05-02
+CUST0301,Tanvi Agrawal,63,Male,Satara,Maharashtra,Regular,Sports,7,2919,20433,Credit Card,2025-11-12
+CUST0302,Priya Sharma,54,Male,Kolhapur,Maharashtra,Premium,Books,5,9978,49890,Debit Card,2025-10-03
+CUST0303,Isha Gaikwad,35,Male,Nanded,Maharashtra,Premium,Sports,2,2421,4842,Credit Card,2025-07-30
+CUST0304,Tanvi Kulkarni,33,Female,Mumbai,Maharashtra,Premium,Sports,6,13773,82638,Credit Card,2025-05-07
+CUST0305,Riya Kadam,58,Male,Solapur,Maharashtra,Premium,Furniture,8,1437,11496,Net Banking,2025-11-21
+CUST0306,Varun Kadam,62,Male,Kolhapur,Maharashtra,New,Furniture,8,5562,44496,UPI,2025-10-25
+CUST0307,Varun Singh,58,Male,Kolhapur,Maharashtra,Premium,Electronics,7,3768,26376,Debit Card,2025-08-08
+CUST0308,Karan Shinde,39,Female,Nanded,Maharashtra,New,Books,3,9475,28425,UPI,2025-09-06
+CUST0309,Aditi Deshmukh,58,Female,Thane,Maharashtra,Premium,Electronics,2,14251,28502,UPI,2025-03-22
+CUST0310,Meena Joshi,62,Male,Mumbai,Maharashtra,New,Sports,5,2804,14020,Debit Card,2025-05-21
+CUST0311,Divya Jadhav,41,Male,Mumbai,Maharashtra,Premium,Electronics,7,10449,73143,UPI,2025-06-06
+CUST0312,Tanvi Deshmukh,18,Male,Nashik,Maharashtra,New,Furniture,2,2374,4748,Cash,2025-10-31
+CUST0313,Aarav Patil,62,Female,Kolhapur,Maharashtra,Regular,Electronics,7,11571,80997,Credit Card,2025-03-09
+CUST0314,Kiran Jadhav,64,Male,Pune,Maharashtra,Premium,Electronics,6,6222,37332,Credit Card,2025-06-03
+CUST0315,Sahil Kulkarni,22,Male,Nanded,Maharashtra,Premium,Books,1,10199,10199,Debit Card,2025-11-29
+CUST0316,Varun Joshi,58,Male,Mumbai,Maharashtra,Regular,Furniture,8,14289,114312,Credit Card,2025-04-22
+CUST0317,Vikas Deshmukh,55,Male,Solapur,Maharashtra,Premium,Grocery,7,5352,37464,UPI,2025-03-13
+CUST0318,Deepak Bhosale,56,Male,Satara,Maharashtra,New,Sports,5,12962,64810,Debit Card,2025-12-20
+CUST0319,Chetan Thakur,56,Male,Nanded,Maharashtra,Regular,Clothing,7,5042,35294,Cash,2025-11-27
+CUST0320,Kiran Deshmukh,33,Female,Thane,Maharashtra,Premium,Sports,2,8855,17710,Credit Card,2025-01-07
+CUST0321,Kiran Gaikwad,44,Male,Kolhapur,Maharashtra,Regular,Books,3,12696,38088,Net Banking,2025-08-30
+CUST0322,Amit Patil,34,Female,Nashik,Maharashtra,New,Electronics,1,13131,13131,Net Banking,2025-07-23
+CUST0323,Vikas Verma,45,Female,Solapur,Maharashtra,Regular,Electronics,3,4746,14238,Net Banking,2025-02-12
+CUST0324,Komal Joshi,27,Male,Nanded,Maharashtra,Premium,Grocery,7,9808,68656,Cash,2025-11-21
+CUST0325,Varun More,21,Male,Nashik,Maharashtra,Premium,Electronics,7,2100,14700,Credit Card,2025-08-21
+CUST0326,Ananya Patil,63,Female,Mumbai,Maharashtra,New,Sports,1,2884,2884,Net Banking,2025-09-12
+CUST0327,Priya Kadam,28,Male,Kolhapur,Maharashtra,Premium,Clothing,5,12208,61040,Cash,2025-03-02
+CUST0328,Divya Thakur,22,Female,Nagpur,Maharashtra,Regular,Sports,2,8328,16656,Cash,2025-08-22
+CUST0329,Simran Gaikwad,28,Male,Kolhapur,Maharashtra,Regular,Clothing,5,12870,64350,Net Banking,2025-02-22
+CUST0330,Aarav Sharma,18,Male,Nashik,Maharashtra,Regular,Electronics,8,6163,49304,UPI,2025-07-16
+CUST0331,Rahul Verma,32,Female,Kolhapur,Maharashtra,Regular,Clothing,7,12001,84007,Net Banking,2025-06-13
+CUST0332,Kavita Deshmukh,50,Male,Aurangabad,Maharashtra,Premium,Clothing,4,13378,53512,UPI,2025-09-22
+CUST0333,Suresh Singh,36,Male,Nagpur,Maharashtra,Premium,Grocery,2,9261,18522,Credit Card,2025-08-22
+CUST0334,Isha Gaikwad,37,Female,Satara,Maharashtra,Regular,Clothing,8,6233,49864,Net Banking,2025-10-30
+CUST0335,Vikas More,27,Female,Aurangabad,Maharashtra,New,Furniture,1,4017,4017,UPI,2025-10-05
+CUST0336,Karan Patil,60,Male,Solapur,Maharashtra,Premium,Sports,5,1903,9515,Cash,2025-04-16
+CUST0337,Aditi Kulkarni,63,Female,Nagpur,Maharashtra,New,Electronics,1,3992,3992,Debit Card,2025-09-24
+CUST0338,Neha Jadhav,55,Male,Pune,Maharashtra,New,Books,3,10640,31920,Net Banking,2025-07-21
+CUST0339,Aditi Verma,60,Female,Mumbai,Maharashtra,New,Clothing,5,4476,22380,Debit Card,2025-06-11
+CUST0340,Karan Singh,35,Male,Nashik,Maharashtra,Regular,Electronics,4,2430,9720,UPI,2025-10-27
+CUST0341,Bhavna Singh,47,Male,Kolhapur,Maharashtra,Premium,Furniture,2,8980,17960,Debit Card,2025-07-03
+CUST0342,Neha Kadam,25,Male,Pune,Maharashtra,Regular,Clothing,5,13739,68695,Debit Card,2025-12-27
+CUST0343,Arjun Jadhav,63,Female,Nashik,Maharashtra,Premium,Grocery,7,8612,60284,Credit Card,2025-01-26
+CUST0344,Aarav Gupta,46,Male,Nanded,Maharashtra,Regular,Sports,4,1751,7004,UPI,2025-08-25
+CUST0345,Aarav Sharma,32,Male,Mumbai,Maharashtra,New,Clothing,7,6298,44086,Net Banking,2025-12-18
+CUST0346,Divya Jadhav,19,Male,Pune,Maharashtra,Premium,Clothing,8,13459,107672,UPI,2025-03-07
+CUST0347,Aditi Singh,21,Female,Mumbai,Maharashtra,Regular,Books,7,13662,95634,Cash,2025-07-22
+CUST0348,Sneha Verma,29,Female,Kolhapur,Maharashtra,Regular,Clothing,3,4705,14115,UPI,2025-05-24
+CUST0349,Rohan Lokhande,57,Female,Nashik,Maharashtra,Regular,Sports,5,8373,41865,UPI,2025-07-30
+CUST0350,Divya Gupta,26,Male,Solapur,Maharashtra,Premium,Clothing,4,10534,42136,Debit Card,2025-10-06
+CUST0351,Nikhil Bhosale,49,Male,Kolhapur,Maharashtra,Regular,Books,6,6563,39378,Debit Card,2025-05-19
+CUST0352,Rohan More,19,Male,Nagpur,Maharashtra,Regular,Electronics,8,8874,70992,UPI,2025-07-03
+CUST0353,Deepak More,35,Female,Nanded,Maharashtra,Premium,Sports,1,12718,12718,Credit Card,2025-04-23
+CUST0354,Bhavna More,55,Female,Kolhapur,Maharashtra,New,Sports,6,9892,59352,Net Banking,2025-01-15
+CUST0355,Arjun Gaikwad,30,Male,Thane,Maharashtra,Regular,Books,5,3076,15380,UPI,2025-09-09
+CUST0356,Deepak Lokhande,32,Male,Aurangabad,Maharashtra,Regular,Books,8,211,1688,Debit Card,2025-06-19
+CUST0357,Tanvi Pawar,38,Male,Aurangabad,Maharashtra,Regular,Electronics,3,9811,29433,Net Banking,2025-12-27
+CUST0358,Simran Agrawal,22,Female,Kolhapur,Maharashtra,Premium,Sports,7,9801,68607,Debit Card,2025-02-21
+CUST0359,Arjun Pawar,64,Male,Solapur,Maharashtra,New,Sports,8,10836,86688,Net Banking,2025-06-12
+CUST0360,Tanvi Lokhande,40,Female,Nashik,Maharashtra,Regular,Sports,3,6399,19197,Credit Card,2025-06-07
+CUST0361,Varun Patil,62,Female,Satara,Maharashtra,New,Furniture,1,3183,3183,Credit Card,2025-11-05
+CUST0362,Sahil Gaikwad,24,Male,Thane,Maharashtra,Premium,Clothing,6,12411,74466,Debit Card,2025-02-09
+CUST0363,Bhavna Jadhav,63,Male,Kolhapur,Maharashtra,New,Furniture,1,4545,4545,UPI,2025-04-18
+CUST0364,Kavita Kadam,24,Male,Aurangabad,Maharashtra,Premium,Electronics,7,7379,51653,Cash,2025-08-03
+CUST0365,Suresh Gupta,40,Male,Nanded,Maharashtra,Regular,Furniture,2,13779,27558,Cash,2025-09-03
+CUST0366,Amit Sharma,36,Female,Aurangabad,Maharashtra,Regular,Grocery,5,1915,9575,Cash,2025-02-07
+CUST0367,Bhavna Jadhav,53,Female,Pune,Maharashtra,New,Grocery,8,11742,93936,Credit Card,2025-01-16
+CUST0368,Rohan Verma,28,Female,Aurangabad,Maharashtra,New,Electronics,6,3567,21402,Net Banking,2025-04-08
+CUST0369,Varun Bhosale,34,Female,Nagpur,Maharashtra,New,Grocery,4,1771,7084,Net Banking,2025-01-26
+CUST0370,Akash Yadav,27,Female,Aurangabad,Maharashtra,New,Grocery,1,7205,7205,Net Banking,2025-02-14
+CUST0371,Nikhil Joshi,24,Male,Aurangabad,Maharashtra,Premium,Clothing,3,10656,31968,UPI,2025-05-30
+CUST0372,Isha Gupta,48,Female,Thane,Maharashtra,Regular,Sports,5,1693,8465,Debit Card,2025-11-25
+CUST0373,Suresh Gupta,41,Female,Mumbai,Maharashtra,Premium,Furniture,1,4513,4513,Credit Card,2025-08-14
+CUST0374,Akash Kadam,54,Female,Aurangabad,Maharashtra,New,Clothing,2,1604,3208,Cash,2025-12-09
+CUST0375,Vikas Gaikwad,32,Female,Nanded,Maharashtra,New,Electronics,7,13608,95256,Cash,2025-09-25
+CUST0376,Riya More,48,Male,Nagpur,Maharashtra,Regular,Electronics,7,14991,104937,Cash,2025-01-18
+CUST0377,Bhavna Pawar,31,Female,Nashik,Maharashtra,Regular,Clothing,1,7136,7136,Credit Card,2025-02-10
+CUST0378,Akash Lokhande,34,Female,Kolhapur,Maharashtra,New,Sports,2,1625,3250,Debit Card,2025-07-18
+CUST0379,Simran Kadam,51,Male,Thane,Maharashtra,Regular,Electronics,7,2043,14301,Net Banking,2025-08-01
+CUST0380,Riya Gaikwad,24,Female,Pune,Maharashtra,Premium,Books,2,13073,26146,Debit Card,2025-05-27
+CUST0381,Kiran Yadav,54,Female,Satara,Maharashtra,Regular,Furniture,1,3021,3021,Net Banking,2025-05-22
+CUST0382,Rohan Gupta,20,Female,Solapur,Maharashtra,Premium,Grocery,4,1007,4028,UPI,2025-09-01
+CUST0383,Karan Shinde,37,Male,Nagpur,Maharashtra,Premium,Furniture,2,14436,28872,Cash,2025-04-27
+CUST0384,Vikas Chavan,35,Male,Solapur,Maharashtra,Premium,Books,2,3279,6558,Cash,2025-08-15
+CUST0385,Vikas Thakur,41,Female,Aurangabad,Maharashtra,Regular,Books,3,1275,3825,Net Banking,2025-06-09
+CUST0386,Suresh Gaikwad,19,Male,Mumbai,Maharashtra,Regular,Clothing,4,13913,55652,Cash,2025-01-30
+CUST0387,Aditi Agrawal,63,Female,Nashik,Maharashtra,New,Grocery,6,13692,82152,UPI,2025-08-26
+CUST0388,Sneha Patil,33,Female,Kolhapur,Maharashtra,Premium,Furniture,8,3109,24872,Credit Card,2025-08-31
+CUST0389,Akash Kadam,65,Male,Pune,Maharashtra,New,Grocery,1,6533,6533,Credit Card,2025-01-26
+CUST0390,Simran More,59,Female,Nashik,Maharashtra,New,Sports,4,4608,18432,UPI,2025-11-30
+CUST0391,Simran Patil,48,Male,Mumbai,Maharashtra,Premium,Sports,3,10049,30147,Net Banking,2025-01-05
+CUST0392,Priya Shinde,63,Female,Nagpur,Maharashtra,Premium,Furniture,7,14152,99064,Credit Card,2025-06-28
+CUST0393,Neha Shinde,61,Male,Nanded,Maharashtra,New,Books,7,9776,68432,Debit Card,2025-02-22
+CUST0394,Rahul Lokhande,56,Female,Nagpur,Maharashtra,Premium,Grocery,2,8092,16184,Debit Card,2025-02-02
+CUST0395,Simran Kadam,34,Male,Nagpur,Maharashtra,New,Clothing,3,8675,26025,Cash,2025-05-04
+CUST0396,Sneha Chavan,61,Female,Mumbai,Maharashtra,Premium,Sports,1,10938,10938,Cash,2025-09-12
+CUST0397,Kiran Gupta,65,Female,Aurangabad,Maharashtra,New,Books,4,5822,23288,Debit Card,2025-04-24
+CUST0398,Pooja Shinde,28,Male,Nanded,Maharashtra,New,Clothing,5,1799,8995,Debit Card,2025-08-30
+CUST0399,Varun Bhosale,29,Male,Kolhapur,Maharashtra,New,Sports,2,3841,7682,Debit Card,2025-07-01
+CUST0400,Meena Chavan,41,Female,Nagpur,Maharashtra,Regular,Books,5,7798,38990,Net Banking,2025-03-02
